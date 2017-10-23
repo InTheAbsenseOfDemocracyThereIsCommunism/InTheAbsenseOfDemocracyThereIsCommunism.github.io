@@ -26,7 +26,7 @@ ul {
 }
 
 li {
-    flex-grow: 42;
+    flex-grow: 1;
     float: left;
 }
 
